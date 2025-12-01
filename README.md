@@ -1,5 +1,5 @@
 This repository demonstrates an implementation of a distributed encryption protocol based on the ElGamal scheme,
-as described in Efficient Cryptographic Protocol Design Based on [Distributed ElGamal Encryption, Felix Brandt, 2005](https://pub.dss.in.tum.de/brandt-research/millionaire.pdf)
+as described in [Efficient Cryptographic Protocol Design Based on Distributed ElGamal Encryption, Felix Brandt, 2005](https://pub.dss.in.tum.de/brandt-research/millionaire.pdf)
 
 
 The protocol was implemented as part of a study on the computational and communication complexity of 
