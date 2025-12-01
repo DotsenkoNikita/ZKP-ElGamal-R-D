@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.obj
+*.pdb
+*.out
+/build/
+/bin/
+/Debug/
+/Release/
+*.user
+*.vcxproj.user
+*.suo
+*.ncb
+*.sdf
+.DS_Store
+Thumbs.db
